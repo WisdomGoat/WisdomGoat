@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WisdomGoat
 - 👀 I’m interested in Data Science and ML/AI
 - 🌱 I’m currently learning Finance
-- 💞️ I’m looking to learn because im now her
+- 💞️ I’m looking to learn because im new her
 - 📫 How to reach me trabelsiaziz76@gmail.com
 
 <!---
